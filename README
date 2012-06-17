@@ -7,3 +7,11 @@ Need to install serialport library(gem install serialport).
 
 - Ruby
 Tested with 1.8.7
+
+How to run:
+
+./m6000m.rb
+
+or
+
+ruby m6000m.rb
