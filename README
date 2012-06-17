@@ -1,0 +1,9 @@
+--- METEX M-6000M data receiver ---
+
+Prerequisite:
+
+- Serialport library
+Need to install serialport library(gem install serialport).
+
+- Ruby
+Tested with 1.8.7
